@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/deepak/FlutterDev/sdk/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/deepak/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/deepak/TuneFlow/APP/new_tuneflow/android/app/.cxx/Debug/6j2j4r6w/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/deepak/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/deepak/TuneFlow/APP/new_tuneflow/android/app/.cxx/Debug/6j2j4r6w/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,21 @@
+import 'package:audio_service/audio_service.dart';
+import 'package:equatable/equatable.dart';
+import 'package:new_tuneflow/core/common/singletones/cache.dart';
+import 'package:new_tuneflow/core/constants/constants.dart';
+import 'package:new_tuneflow/core/utils/function.dart';
+import 'package:new_tuneflow/src/album/data/models/album_model.dart';
+import 'package:new_tuneflow/src/auth/domain/entites/artist_entity.dart';
+import 'package:new_tuneflow/src/playlist/data/models/playlist_model.dart';
+import 'package:in_app_purchase/in_app_purchase.dart';
+
+part 'media_formate.dart';
+part 'song_model.dart';
+part 'language_model.dart';
+part 'artist_model.dart';
+part 'playing_model.dart';
+part 'default_response.dart';
+part 'user_playlist_model.dart';
+part 'room_model.dart';
+part 'purchaseable_products_model.dart';
+part 'mode_model.dart';
+part 'chat_model.dart';

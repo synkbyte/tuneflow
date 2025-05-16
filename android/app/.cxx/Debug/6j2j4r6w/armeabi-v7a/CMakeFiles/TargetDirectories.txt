@@ -1,0 +1,2 @@
+/Users/deepak/TuneFlow/APP/new_tuneflow/android/app/.cxx/Debug/6j2j4r6w/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/deepak/TuneFlow/APP/new_tuneflow/android/app/.cxx/Debug/6j2j4r6w/armeabi-v7a/CMakeFiles/rebuild_cache.dir

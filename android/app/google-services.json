@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "1007722364128",
+    "firebase_url": "https://tuneflow-84bd7-default-rtdb.firebaseio.com",
+    "project_id": "tuneflow-84bd7",
+    "storage_bucket": "tuneflow-84bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007722364128:android:744fd5d325d3ee89ce2485",
+        "android_client_info": {
+          "package_name": "com.tuneflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007722364128-3tm0bi2cmpvf6cb12ta8j5ldli14irpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuneflow",
+            "certificate_hash": "993995429ece7336521e20b4cc4d01a410b20250"
+          }
+        },
+        {
+          "client_id": "1007722364128-5ctv3goru0g9292gdki56tl3ij2f6dpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuneflow",
+            "certificate_hash": "be3ad3c472e2959f7b2223ff57828736b2dc9a8c"
+          }
+        },
+        {
+          "client_id": "1007722364128-dqgj1ur59ohtrq1jtt6j6dpfpr1agm23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuneflow",
+            "certificate_hash": "2584dec863a411d8324de9a398cd7f83c23f8fce"
+          }
+        },
+        {
+          "client_id": "1007722364128-mfqe5r59s0hkr68l23vterj40sg27pvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbh_b4ST8E-jf3BYnduAk_8oWEf7GwtuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007722364128-mfqe5r59s0hkr68l23vterj40sg27pvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1007722364128-3iohc7b1ea97abdddt858ju6ls19tjfa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tuneflow"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1734824098733177~5137455574"
+    }
+  ],
+  "configuration_version": "1"
+}

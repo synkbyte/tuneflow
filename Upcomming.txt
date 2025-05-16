@@ -1,0 +1,35 @@
+ - Song Snippets 
+ - Cross-App Music Import
+
+ - Share room to community
+
+ - Social Feed
+1. Song Snippets (Preview Mode)
+ - Let users preview a 15-second snippet of a song before listening to the full version.
+2. User Status Updates
+3. Download Scheduler
+ - Allow users to schedule downloads for non-peak hours to save mobile data.
+4. Smart Offline Mode
+ - Automatically download most-played songs for offline listening without manual intervention.
+5. Auto-Bookmark Favorite Artists
+6. Quick Access Widget
+ - Add a home screen widget for quick access to the player or playlists.
+7. Cross-App Music Import
+ - Allow users to import playlists from other music apps like Spotify or YouTube Music.
+9. Points for Listening Hours
+11. Early access to new features
+
+
+
+---- Unlisted ----
+Download Entire Albums, Playlist
+Early access to new features
+Points for Listening Hours
+Badges
+Watch Ads for Premium Access
+Refer Friends for Bonus Access
+Profile Avatars & Stickers
+Purchase Exclusive Stickers
+Buy Virtual Gifts for Friends
+In-app chat support or a dedicated help center.
+Use a music-based wake-up alarm with their favorite playlist or song

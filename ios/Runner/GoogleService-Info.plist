@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>264191090501-p3354r615uuj260br9l3ggckjnmjcuq7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.264191090501-p3354r615uuj260br9l3ggckjnmjcuq7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJM1bPTlbwDyNXyXHoVet1bbkwPQslXZc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>264191090501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tuneflow</string>
+	<key>PROJECT_ID</key>
+	<string>tuneflow-75ee8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tuneflow-75ee8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:264191090501:ios:7afb9f9975e4aadc44a82c</string>
+	<key>DATABASE_URL</key>
+	<string>https://tuneflow-75ee8-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
